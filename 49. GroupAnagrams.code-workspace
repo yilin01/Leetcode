@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Nodejs/fun"
+		},
+		{
+			"name": "Leetcode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
