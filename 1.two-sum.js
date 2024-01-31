@@ -1,5 +1,5 @@
-var twosum = function(nums, target) {
-
+var twosum = function(num2, target) {
+  const obj = {};
   for (var i=0; i< num2.length; i++) {
     if(obj[num2[i]] !== undefined) return [obj[num2[i]], i];
     obj[target-num2[i]] = i;
